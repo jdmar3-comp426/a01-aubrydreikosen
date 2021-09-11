@@ -24,7 +24,7 @@ h1 {
 }
 
 div.green#Evil {
-    background-color: #ff0000;
+    background-color: #ff0000 !important;
     opacity: 0.5;
 }
 
@@ -41,7 +41,7 @@ div.green#Evil {
 }
 
 div.green#Cute {
-    background-color: #90ee90;
+    background-color: #90ee90 !important;
     opacity: 0.5;
 }
 
