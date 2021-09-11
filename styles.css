@@ -80,3 +80,7 @@ img.reverse {
 header {
     background: #008000;
 }
+
+footer>h5 {
+    text-decoration: underline;
+}
