@@ -1,0 +1,39 @@
+p {
+    font-size: 14px;
+    font-family: sans-serif;
+}
+
+a:hover {
+    color: green;
+}
+
+h2 {
+    font-size: 20px;
+    font-family: fantasy;
+}
+
+header.h1 {
+    font-size: 25px;
+    font-family: "copperplate";
+}
+
+#Evil {
+    color: #ff0000;
+    opacity: 0.5;
+}
+
+#Cute {
+    color: #90ee90;
+    opacity: 0.5;
+}
+
+div {
+    border: 4px, dotted, green;
+    color: #000000;
+    font-size: 15px;
+}
+
+img {
+    width: 300px;
+    height: 400px;
+}
