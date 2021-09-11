@@ -79,3 +79,7 @@ img.reverse {
     width: 500px;
     height: 400px;
 }
+
+footer h5 a:hover {
+    color: blue;
+}
