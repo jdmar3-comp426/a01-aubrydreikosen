@@ -23,24 +23,24 @@ h1 {
     text-align: center;
 }
 
-#Evil {
+div#Evil {
     background-color: #ff0000;
     opacity: 0.5;
 }
 
-#Evil.p {
+div#Evil.p {
     font-size: 14px;
     color: #000000;
     opacity: 1;
 }
 
-#Cute.p {
+div#Cute.p {
     font-size: 14px;
     color: #000000;
     opacity: 1;
 }
 
-#Cute {
+div#Cute {
     background-color: #90ee90;
     opacity: 0.5;
 }
@@ -74,4 +74,12 @@ img {
 img.reverse {
     width: 500px;
     height: 400px;
+}
+
+header {
+    background: #008000;
+}
+
+div.green {
+    background: #008000;
 }
